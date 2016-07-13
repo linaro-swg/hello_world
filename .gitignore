@@ -1,0 +1,7 @@
+*.png
+*.swp
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+*.o
