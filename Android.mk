@@ -21,3 +21,5 @@ LOCAL_SHARED_LIBRARIES := libteec
 LOCAL_MODULE := tee_helloworld
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_EXECUTABLE)
+
+include $(LOCAL_PATH)/ta/Android.mk
