@@ -1,3 +1,10 @@
+# Hello World - \*\*DEPRECATED\*\*
+
+# 2018-01-01: This standalone Hello World TA has been deprecated
+We have just recently created another git called [optee_examples](https://github.com/linaro-swg/optee_examples). The code from this Hello World application has been moved into that optee_examples git, so Hello World resides there as one standalone example together with a few other standalone example host/ta pairs. We will keep this git here as a reference in case someone needs it for historical reasons (links pointing here etc).
+
+Description
+------------
 This is a reference template to start writing a Trusted Application
 
 Presentation
